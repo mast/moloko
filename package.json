@@ -1,0 +1,5 @@
+{
+	"name": "moloko",
+	"description": "Moloko is a wrapper over TCP sockets, that adds message-like way of data transportation",
+ 	"version": "0.1"
+}
