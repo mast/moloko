@@ -1,4 +1,5 @@
 var moloko = require('../index.js');
+// NOTE: You should use require('moloko') instead in real project
 
 var client = moloko.client({
 	host: 'localhost',

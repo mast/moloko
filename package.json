@@ -1,5 +1,15 @@
 {
 	"name": "moloko",
 	"description": "Moloko is a wrapper over TCP sockets, that adds message-like way of data transportation",
- 	"version": "0.1"
+ 	"version": "0.1.0",
+ 	"keywords": ["TCP", "Socket", "Message", "Moloko"],
+ 	"license": "MIT",
+ 	"author": {
+	 	"name": "Maxim Stepanov",
+	 	"email": "mast@imast.ru"
+ 	},
+ 	"repository": {
+	 	"type": "git",
+	 	"url": "https://github.com/mast/moloko"
+ 	}
 }
